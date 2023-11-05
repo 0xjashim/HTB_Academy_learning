@@ -15,3 +15,7 @@ Breakdown the command
 `-PE 	            #Performs the ping scan by using 'ICMP Echo requests' against the target.`
 `--packet-trace 	#Shows all packets sent and received`
 
+
+
+xsltproc target.xml -o target.html
+
